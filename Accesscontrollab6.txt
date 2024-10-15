@@ -1,0 +1,11 @@
+Method-based access control circumvented
+
+Credential
+administrator: admin
+wiener: peter
+
+Target Goal
+Promote yourself to become an administrator
+
+Analysis
+Logging as wiener user and promote yourself as administrator.
